@@ -1,7 +1,7 @@
 ### Hi there! 👋 Divyansh here,
 
-- 🔭 I’m currently working on Android as well as web dev.
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on WallpaperX - A Wallpaper app for android devices.
+- 🌱 I’m currently learning WorkManager API in Android
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with, just chit-chat.
 - 💬 Ask me about Android stuffs
