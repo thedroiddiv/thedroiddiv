@@ -15,9 +15,10 @@
   <a href="https://github.com/divyansh-dxn/github-readme-stats"><img alt="Divyansh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-dxn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyansh-dxn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://git.io/streak-stats)
+<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyansh-dxn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://git.io/streak-stats)
   
 <br/>
   <a href="https://github.com/divyansh-dxn/github-readme-activity-graph"><img alt="Divyansh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=divyansh-dxn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
+ -->
