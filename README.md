@@ -1,4 +1,4 @@
-### Hi there! 👋 Divyansh here,
+## Hi there! 👋 Divyansh here,
 
 - 🔭 I’m currently working on [AnkiDroid](https://github.com/ankidroid/Anki-Android) as an open source contributor.
 - 🌱 I’m currently learning Kotlin Coroutines.
@@ -17,7 +17,7 @@
 <p align="center">
 <span><img alt="Divyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=divyansh-dxn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></span>
  <span><img alt="Divyansh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-dxn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></span>
- <span><img alt="Divyansh's Stats" src="http://github-readme-streak-stats.herokuapp.com?user=divyansh-dxn&theme=blue-green&hide_border=true)](https://git.io/streak-stats" /></span>
+ <span><img alt="Divyansh's Stats" src="http://github-readme-streak-stats.herokuapp.com?user=divyansh-dxn&theme=blue-green&hide_border=true"/></span>
  </p>
 <br/>
 
