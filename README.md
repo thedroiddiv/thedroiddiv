@@ -9,8 +9,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My portfolio is <a href="https://divyansh-dxn.github.io/me" target="_blank"/>Divyansh Kushwaha</a>
   
-<img width="200" src="https://user-images.githubusercontent.com/69595691/174427668-2da65b8b-dbff-4abe-8ac3-361e2266ff99.gif"/>
-  
   
 ## 📊 My Github Stats
 <br/>
