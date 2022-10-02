@@ -1,6 +1,6 @@
 <p>
 
-<img align="left" src="https://user-images.githubusercontent.com/69595691/189496348-aa5b7db6-00b9-4a24-a694-a7bf9752da39.png" width="300px">
+<img align="left" src="https://user-images.githubusercontent.com/69595691/193453676-3abfe557-1fc1-46d8-8075-3b17b9f54887.gif" width="400px">
 
 ## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> About Me
 
@@ -18,7 +18,6 @@
 <br clear="left"/>
 
 <p align="center" > <img src="https://user-images.githubusercontent.com/65576812/183567672-780321f4-eda3-4501-88a8-ea73f9e87d85.gif" width="200px"> <p />
-
 
 ## 📊 My Github Stats
 
