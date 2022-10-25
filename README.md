@@ -11,7 +11,7 @@
 - 💬 Ask me about Android stuffs 
 - 📫 Reach me at: <a href="mailto:kushwaha.divyansh.dxn@gmail.com">email</a>, <a href="https://instagram.com/divyansh.dxn">instagram<a/>, <a href="https://www.linkedin.com/in/divyansh-kushwaha-b44004202/">linkedin<a/>
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: My portfolio is <a href="https://divyansh-dxn.github.io/me" target="_blank"/>Divyansh Kushwaha</a>
+- ⚡ Fun fact: My portfolio is <a href="https://divyanshdxn.me/" target="_blank"/>divyanshdxn.me</a>
 
 <p />
 
