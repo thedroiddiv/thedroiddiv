@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open source projects  
 - 🤔 I’m looking forward for just chit-chat. 
 - 💬 Ask me about Android stuffs 
-- 📫 Reach me at: <a href="mailto:kushwaha.divyansh.dxn@gmail.com">email</a>, <a href="https://instagram.com/divyansh.dxn">instagram<a/>, <a href="https://www.linkedin.com/in/divyansh-kushwaha-b44004202/">linkedin<a/>
+- 📫 Reach me at: <a href="mailto:divyanshdxn@gmail.com">email</a>, <a href="https://instagram.com/divyanshdxn">instagram<a/>, <a href="https://www.linkedin.com/in/divyanshdxn/">linkedin<a/>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My portfolio is <a href="https://divyanshdxn.me/" target="_blank"/>divyanshdxn.me</a>
 
@@ -20,11 +20,11 @@
 ## 📊 My Github Stats
 
 <p align="center">
-<span><img alt="Divyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=divyansh-dxn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></span>
- <span><img alt="Divyansh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-dxn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></span>
+<span><img alt="Divyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=divyanshdxn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></span>
+ <span><img alt="Divyansh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshdxn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></span>
  <span><img src="https://user-images.githubusercontent.com/65576812/183567672-780321f4-eda3-4501-88a8-ea73f9e87d85.gif" width="200px"></span>
  
-<img src="https://activity-graph.herokuapp.com/graph?username=divyansh-dxn&bg_color=0D1117&color=ffffff&line=22c55e&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=Commits" alt="GitHub Commits Graph" />
+<img src="https://activity-graph.herokuapp.com/graph?username=divyanshdxn&bg_color=0D1117&color=ffffff&line=22c55e&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=Commits" alt="GitHub Commits Graph" />
  
  </p>
 <br/>
