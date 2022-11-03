@@ -24,8 +24,8 @@
  <span><img alt="Divyansh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshdxn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></span>
  <span><img src="https://user-images.githubusercontent.com/65576812/183567672-780321f4-eda3-4501-88a8-ea73f9e87d85.gif" width="200px"></span>
  
-<img src="https://activity-graph.herokuapp.com/graph?username=divyanshdxn&bg_color=0D1117&color=ffffff&line=22c55e&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=Commits" alt="GitHub Commits Graph" />
- 
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=divyanshdxn&bg_color=0D1117&color=ffffff&line=22c55e&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=Commits" alt="GitHub Commits Graph" />
+  -->
  </p>
 <br/>
 <p />
