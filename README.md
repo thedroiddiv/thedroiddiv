@@ -4,7 +4,6 @@
 
 ## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> About Me
 
-- 🔭 I’m currently working on [AnkiDroid](https://github.com/ankidroid/Anki-Android) as an open source contributor. 
 - 🌱 I’m currently learning Kotlin Coroutines.  
 - 👯 I’m looking to collaborate on open source projects  
 - 🤔 I’m looking forward for just chit-chat. 
