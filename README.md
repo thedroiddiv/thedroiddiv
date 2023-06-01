@@ -22,12 +22,15 @@
 <span><img alt="Divyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=divyanshdxn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></span>
  <span><img alt="Divyansh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshdxn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></span>
  <span><img src="https://user-images.githubusercontent.com/65576812/183567672-780321f4-eda3-4501-88a8-ea73f9e87d85.gif" width="200px"></span>
- 
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=divyanshdxn&bg_color=0D1117&color=ffffff&line=22c55e&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=Commits" alt="GitHub Commits Graph" />
-  -->
  </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=divyanshdxn&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
+ 
+ 
+ [![Divyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshdxn&bg_color=0d1117&color=00bfc2&line=00696b&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ <p align="center">
+ <span><img alt="Divyansh's Github Stats" src="https://streak-stats.demolab.com?user=divyanshdxn&theme=cobalt&hide_border=true" /></span>
+ <span><img src="https://github.com/divyanshdxn/divyanshdxn/assets/69595691/16ecfeb3-fd92-4834-8535-0c5d188ae2d8" width="200px"></span>
+ </p>
  
  <br/>
 <p />
