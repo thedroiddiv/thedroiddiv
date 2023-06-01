@@ -26,7 +26,10 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=divyanshdxn&bg_color=0D1117&color=ffffff&line=22c55e&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=Commits" alt="GitHub Commits Graph" />
   -->
  </p>
-<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=divyanshdxn&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
+ 
+ <br/>
 <p />
 
 
