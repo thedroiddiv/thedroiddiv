@@ -10,7 +10,7 @@
 - 💬 Ask me about Android stuffs 
 - 📫 Reach me at: <a href="mailto:divyanshdxn@gmail.com">email</a>, <a href="https://instagram.com/thedroiddiv">instagram<a/>, <a href="https://www.linkedin.com/in/thedroiddiv/">linkedin<a/>
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: My portfolio is <a href="https://divyanshdxn.me/" target="_blank"/>divyanshdxn.me</a>
+- ⚡ Fun fact: My portfolio is <a href="https://thedroiddiv.github.io/" target="_blank"/>thedroiddiv.github.io</a>
 
 <p />
 
