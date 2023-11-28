@@ -41,6 +41,7 @@
  <br/>
 <p />
 
-![An image of @thedroiddiv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thedroiddiv)](https://holopin.io/@thedroiddiv)
+ 
+[![An image of @thedroiddiv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thedroiddiv)](https://holopin.me/thedroiddiv)
 
 
