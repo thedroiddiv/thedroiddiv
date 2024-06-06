@@ -31,17 +31,13 @@
  <span><img alt="Divyansh's Github Stats" src="https://streak-stats.demolab.com?user=thedroiddiv&theme=cobalt&hide_border=true" /></span>
  <span><img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/503a78ae-ab13-455f-aeeb-9eccaafa53ee" width="200px"></span>
  </p>
+
  
- <p align="center">
+ <!-- <p align="center">
  <img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/ad02e3df-ee1e-436c-9d2a-adad55645b5f" width="200px">
  <img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/596b96c1-3d71-4925-accd-efa871909996" width="200px">
  <img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/16ecfeb3-fd92-4834-8535-0c5d188ae2d8" width="200px">
- </p>
+ </p> -->
 
  <br/>
 <p />
-
- 
-[![An image of @thedroiddiv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thedroiddiv)](https://holopin.io/@thedroiddiv)
-
-
