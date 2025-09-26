@@ -4,7 +4,8 @@
 
 ## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> About Me
 
-- 🌱 Architecting Android app infra @Karya.  
+- 🌱 Architecting Android app infra @Karya.
+- 📱 Migrating Android libraries to KMP+CMP
 - 👯 I’m looking to collaborate on open source projects  
 - 🤔 I’m looking forward for just chit-chat. 
 - 💬 Ask me about Android stuffs 
