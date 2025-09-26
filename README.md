@@ -7,9 +7,9 @@
 - 🌱 Architecting Android app infra @Karya.
 - 📱 Migrating Android libraries to KMP+CMP
 - 👯 I’m looking to collaborate on open source projects  
-- 🤔 I’m looking forward for just chit-chat. 
+- 🤔 I’m looking forward for Kotlin chit-chat. 
 - 💬 Ask me about Android stuffs 
-- 📫 Reach me at: <a href="mailto:divyanshdxn@gmail.com">email</a>, <a href="https://instagram.com/thedroiddiv">instagram<a/>, <a href="https://www.linkedin.com/in/thedroiddiv/">linkedin<a/>
+- 📫 Reach me at: <a href="mailto:thedroiddiv@gmail.com">thedroiddiv@gmail.com</a> or <a href="https://www.linkedin.com/in/thedroiddiv/">linkedin/thedroiddiv<a/>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My portfolio is <a href="https://thedroiddiv.github.io/" target="_blank"/>thedroiddiv.github.io</a>
 
