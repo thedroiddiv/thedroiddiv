@@ -1,8 +1,11 @@
+
+## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> About Me
+I am an Android Engineer with 3+ years of experience building scalable mobile apps with Kotlin, Jetpack Compose, and modern Android tools. Passionate about open-source, low-resource performance, and inclusive technology.
+
+
 <p>
 
 <img align="left" src="https://user-images.githubusercontent.com/69595691/193453676-3abfe557-1fc1-46d8-8075-3b17b9f54887.gif" width="400px">
-
-## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> About Me
 
 - 🌱 Architecting Android app infra @Karya.
 - 📱 Migrating Android libraries to KMP+CMP
