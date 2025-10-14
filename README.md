@@ -35,7 +35,6 @@ I am an Android Engineer with 3+ years of experience building scalable mobile ap
  <span><img alt="Divyansh's Github Stats" src="https://streak-stats.demolab.com?user=thedroiddiv&theme=cobalt&hide_border=true" /></span>
  <span><img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/503a78ae-ab13-455f-aeeb-9eccaafa53ee" width="200px"></span>
  </p>
-
  
  <!-- <p align="center">
  <img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/ad02e3df-ee1e-436c-9d2a-adad55645b5f" width="200px">
@@ -45,3 +44,7 @@ I am an Android Engineer with 3+ years of experience building scalable mobile ap
 
  <br/>
 <p />
+
+## Desk Setup
+![PXL_20251009_141731338 MP~3](https://github.com/user-attachments/assets/a38371d7-5472-4d24-85ad-1e6c6f410e2e)
+
