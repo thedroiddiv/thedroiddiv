@@ -1,5 +1,5 @@
 
-![PXL_20251009_141731338 MP~3](https://github.com/user-attachments/assets/a38371d7-5472-4d24-85ad-1e6c6f410e2e)
+![share_7611519788935501742](https://github.com/user-attachments/assets/0e6887ea-3c84-47f2-bb70-890b1afd6380)
 
 ## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> About Me
 I am an Android Engineer with 3+ years of experience building scalable mobile apps with Kotlin, Jetpack Compose, and modern Android tools. Passionate about open-source, low-resource performance, and inclusive technology.
