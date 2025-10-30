@@ -37,7 +37,6 @@ I am an Android Engineer with 3+ years of experience building scalable mobile ap
  [![Divyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thedroiddiv&bg_color=0d1117&color=00bfc2&line=00696b&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <p align="center">
- <span><img alt="Divyansh's Github Stats" src="https://streak-stats.demolab.com?user=thedroiddiv&theme=cobalt&hide_border=true" /></span>
  <span><img src="https://github.com/thedroiddiv/thedroiddiv/assets/69595691/503a78ae-ab13-455f-aeeb-9eccaafa53ee" width="200px"></span>
  </p>
  
