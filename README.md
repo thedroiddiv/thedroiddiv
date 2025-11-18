@@ -17,6 +17,8 @@ I am an Android Engineer with 3+ years of experience building scalable mobile ap
 - 📫 Reach me at: <a href="mailto:thedroiddiv@gmail.com">thedroiddiv@gmail.com</a> or <a href="https://www.linkedin.com/in/thedroiddiv/">linkedin/thedroiddiv<a/>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My portfolio is <a href="https://thedroiddiv.github.io/" target="_blank"/>thedroiddiv.github.io</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thdroiddiv&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysargam" /> </p>
+
 
 <p />
 
