@@ -28,7 +28,7 @@ I am an Android Engineer with 3+ years of experience building scalable mobile ap
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thedroiddiv&theme=github_dark" />
-<span><img alt="Divyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thedroiddiv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></span>
+<span><img alt="Divyansh's Github Stats" src="https://streak-stats.demolab.com?user=thedroiddiv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></span>
  <span><img alt="Divyansh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedroiddiv&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></span>
  <span><img src="https://user-images.githubusercontent.com/65576812/183567672-780321f4-eda3-4501-88a8-ea73f9e87d85.gif" width="200px"></span>
  </p>
